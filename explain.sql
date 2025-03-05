@@ -1,0 +1,1 @@
+EXPLAIN ANALYZE SELECT * FROM Users WHERE Email = 'assiya@gmail.com';
